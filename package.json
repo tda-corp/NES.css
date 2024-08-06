@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nostalgic-css/NES.css.git"
+    "url": "https://github.com/tda-corp/NES.css.git"
   },
   "keywords": [
     "css",
@@ -39,10 +39,7 @@
     "nes",
     "framework"
   ],
-  "engines": {
-    "node": ">=10.0.0"
-  },
-  "author": "BcRikko (https://github.com/Bcrikko)",
+  "author": "nostalgic-css (https://github.com/nostalgic-css/NES.css)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nostalgic-css/NES.css/issues"
